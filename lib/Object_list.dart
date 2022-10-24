@@ -1,4 +1,4 @@
-import 'package:flutter/cupertino.dart';
+
 
 class ObjectList {
   final String logo;
